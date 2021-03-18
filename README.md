@@ -1,7 +1,7 @@
 # Tip-Calculator-Program
 
 ## General info
-*This simple program calculates the amount of the bill plus tip for each person.
+*This simple program calculates the amount of the bill plus tip for each person.*
 
 ### For example:
 > If the bill was $150.00, split between 5 people, with 12% tip.\
